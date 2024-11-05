@@ -4,7 +4,7 @@
   <name>ball_tracker</name>
   <version>0.0.0</version>
   <description>Pacote para detecção e rastreamento de bolas usando ROS 2</description>
-  <maintainer email="josh.newans@gmail.com">newans</maintainer>
+  <maintainer email="Todo@gmail.com">newans</maintainer>
   <license>Apache-2.0</license>
 
   <!-- Dependências para desenvolvimento e testes -->
