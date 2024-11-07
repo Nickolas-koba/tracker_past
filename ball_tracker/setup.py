@@ -18,7 +18,7 @@ setup(
     zip_safe=True,
     maintainer='TODO',
     maintainer_email='Nickolas.teixeira@gmail.com',
-    description='TODO: Package description',
+    description='Pacote para detecção e rastreamento de bolas usando ROS 2',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
